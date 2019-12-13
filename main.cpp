@@ -3,5 +3,5 @@ using namespase std;
 
 int main()
 {
-cout << "hello world";
+cout << "hello world" << endl;
 }
